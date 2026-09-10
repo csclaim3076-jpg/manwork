@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InbuIlbo" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">#1a56db</item>
+        <item name="android:navigationBarColor">#1a56db</item>
+    </style>
+</resources>
